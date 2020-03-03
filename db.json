@@ -1,0 +1,592 @@
+{
+    "sets": {
+        "id": "6085-1",
+        "name": "The Black Fortress",
+        "name-fr": "Le château du Dragon Noir",
+        "family": "Castle",
+        "year": "1988",
+        "nb_parts": "702",
+        "nb_figures": "12",
+        "catalogs": ["1988","1989","1990","1991"]
+    },
+    {
+        "id": "6059-1",
+        "name": "Town Gate",
+        "name-fr": "Les remparts et la catapulte",
+        "family": "Castle",
+        "year": "1990",
+        "nb_parts": "224",
+        "nb_figures": "5",
+        "catalogs": ["1990","1991","1992","1993"]
+    },
+    {
+        "id": "6081-1",
+        "name": "The Haunted Castle",
+        "name-fr": "Le château hanté",
+        "family": "Castle",
+        "year": "1990",
+        "nb_parts": "435",
+        "nb_figures": "8",
+        "catalogs": ["1990","1991","1992"]
+    },
+    {
+        "id": "6016-1",
+        "name": "Horse and cart",
+        "name-fr": "Le char du garde",
+        "family": "Castle",
+        "year": "1988",
+        "nb_parts": "37",
+        "nb_figures": "1",
+        "catalogs": ["1987", "1988", "1989", "1990","1991"]
+    },
+    {
+        "id": "6034-1",
+        "name": "Haunted Tower",
+        "name-fr": "La cache du fantôme",
+        "family": "Castle",
+        "year": "1990",
+        "nb_parts": "46",
+        "nb_figures": "2",
+        "catalogs": ["1990","1991", "1992", "1993"]
+    },
+    {
+        "id": "6018-1",
+        "name": "Dragon Ship",
+        "name-fr": "Le Drakkar",
+        "family": "Castle",
+        "year": "1990",
+        "nb_parts": "56",
+        "nb_figures": "2",
+        "catalogs": ["1990","1991", "1992"]
+    },
+    {
+        "id": "6103-1",
+        "name": "Castle Mini Figures",
+        "name-fr": "6 personnages du Moyen-âge",
+        "family": "Castle",
+        "year": "1988",
+        "nb_parts": "13",
+        "nb_figures": "6",
+        "catalogs": ["1988", "1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6049-1",
+        "name": "Viking Voyager",
+        "name-fr": "Le bateau des chevaliers",
+        "family": "Castle",
+        "year": "1987",
+        "nb_parts": "81",
+        "nb_figures": "5",
+        "catalogs": ["1987", "1988", "1989", "1990", "1991"]
+    },
+    {
+        "id": "6039-1",
+        "name": "Double Catapult",
+        "name-fr": "La double catapulte",
+        "family": "Castle",
+        "year": "1988",
+        "nb_parts": "77",
+        "nb_figures": "2",
+        "catalogs": ["1988", "1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6042-1",
+        "name": "Prison Wagon",
+        "name-fr": "Le chariot du prisonner",
+        "family": "Castle",
+        "year": "1990",
+        "nb_parts": "94",
+        "nb_figures": "3",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6077-2",
+        "name": "Robin's Lake Stronghold",        
+        "name-fr": "Le fortin des hors-la-loi",
+        "family": "Castle",
+        "year": "1989",
+        "nb_parts": "357",
+        "nb_figures": "6",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6066-1",
+        "name": "Robin Hood's Secret Cave",
+        "name-fr": "La cachette des hors-la-loi",
+        "family": "Castle",
+        "year": "1987",
+        "nb_parts": "204",
+        "nb_figures": "6",
+        "catalogs": ["1988", "1989", "1990", "1991"]
+    },
+    {
+        "id": "6054-1",
+        "name": "Robin Hood's Tree Hideaway",
+        "name-fr": "La chambre secrète",
+        "family": "Castle",
+        "year": "1988",
+        "nb_parts": "201",
+        "nb_figures": "2",
+        "catalogs": ["1988", "1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6285-1",
+        "name": "Black Seas Barracuda",
+        "name-fr": "\"Requin Noir\" le bateau des pirates",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "870",
+        "nb_figures": "8",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6270-1",
+        "name": "Pirate Island",
+        "name-fr": "L'île des pirates'",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "165",
+        "nb_figures": "4",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6260-1",
+        "name": "Pirates Treasure Island",
+        "name-fr": "Le repaire des pirates",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "64",
+        "nb_figures": "2",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6257-1",
+        "name": "Pirates' Raft",
+        "name-fr": "Le radeau des pirates",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "42",
+        "nb_figures": "3",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6235-1",
+        "name": "Buried Treasure",        
+        "name-fr": "Le trésor du pirate",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "17",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6251-1",
+        "name": "Pirate Minifigures",
+        "name-fr": "5 personnages et leurs accessoires",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "10",
+        "nb_figures": "5",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6276-1",
+        "name": "Governor's Fort Sabre",
+        "name-fr": "Le fort du Gouverneur",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "462",
+        "nb_figures": "8",
+        "catalogs": ["1989", "1990", "1991", "1992", "1993"]
+    },
+    {
+        "id": "6274-1",
+        "name": "Governor's Ship Sea Hawk",
+        "name-fr": "Le brick du Gouverneur",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "361",
+        "nb_figures": "4",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6265-1",
+        "name": "Governor's bastion",
+        "name-fr": "Le bastion du Gouverneur",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "79",
+        "nb_figures": "3",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6245-1",
+        "name": "Governor Broadside's Boat",
+        "name-fr": "Le canonnier dans sa chaloupe",
+        "family": "Pirates",
+        "year": "1989",
+        "nb_parts": "20",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6529-1",
+        "name": "Ultra Lite I",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "22",
+        "nb_figures": "2",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6673-1",
+        "name": "Private Plane",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "64",
+        "nb_figures": "1",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6375-1",
+        "name": "Cargo Plane",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "185",
+        "nb_figures": "2",
+        "catalogs": ["1990", "1991", "1992", "1993"]
+    },
+    {
+        "id": "6396-1",
+        "name": "International Jetport",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "463",
+        "nb_figures": "8",
+        "catalogs": ["1990", "1991", "1992", "1993"]
+    },
+    {
+        "id": "6399-1",
+        "name": "Airport Shuttle",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "728",
+        "nb_figures": "9",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6395-1",
+        "name": "Victory Lap Raceway",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "559",
+        "nb_figures": "13",
+        "catalogs": ["1989", "1990"]
+    },
+    {
+        "id": "6381-1",
+        "name": "Motor Speedway",
+        "family": "Town",
+        "year": "1987",
+        "nb_parts": "171",
+        "nb_figures": "5",
+        "catalogs": ["1987", "1988", "1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6503-1",
+        "name": "Formula 1 Racer",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "23",
+        "nb_figures": "1",
+        "catalogs": ["1988", "1989", "1990"]
+    },
+    {
+        "id": "6526-1",
+        "name": "Dragster",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "41",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991", "1992", "1993"]
+    },
+    {
+        "id": "6528-1",
+        "name": "Off Road Racer",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "34",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6644-1",
+        "name": "Road Racer Transporter",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "62",
+        "nb_figures": "1",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6508-1",
+        "name": "Racing Boat",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "31",
+        "nb_figures": "1",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6394-1",
+        "name": "Parking And Service Centre",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "590",
+        "nb_figures": "6",
+        "catalogs": ["1988", "1989", "1990"]
+    },
+    {
+        "id": "6674-1",
+        "name": "Crane Truck",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "88",
+        "nb_figures": "1",
+        "catalogs": ["1988", "1989", "1990"]
+    },
+    {
+        "id": "6671-1",
+        "name": "Service Truck",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "92",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6481-1",
+        "name": "Road Works",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "169",
+        "nb_figures": "2",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6376-1",
+        "name": "Breezeway Café",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "156",
+        "nb_figures": "5",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6660-1",
+        "name": "Tow Truck",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "56",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6386-1",
+        "name": "Police Headquarters",
+        "family": "Town",
+        "year": "1986",
+        "nb_parts": "356",
+        "nb_figures": "4",
+        "catalogs": ["1987", "1988", "1989", "1990", "1991"]
+    },
+    {
+        "id": "6450-1",
+        "name": "Police Van",
+        "family": "Town",
+        "year": "1985",
+        "nb_parts": "76",
+        "nb_figures": "1",
+        "catalogs": ["1985", "1986", "1987", "1988", "1989", "1990"]
+    },
+    {
+        "id": "6354-1",
+        "name": "Police Rapid Response Team",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "147",
+        "nb_figures": "3",
+        "catalogs": ["1990", "1991", "1992", "1993"]
+    },
+    {
+        "id": "6506-1",
+        "name": "Police Car And Policeman",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "23",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6522-1",
+        "name": "Highway Patrol",
+        "family": "Town",
+        "year": "1987",
+        "nb_parts": "20",
+        "nb_figures": "2",
+        "catalogs": ["1987", "1988", "1989", "1990"]
+    },
+    {
+        "id": "6642-1",
+        "name": "Police Helicopter",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "59",
+        "nb_figures": "1",
+        "catalogs": ["1988", "1989", "1990"]
+    },
+    {
+        "id": "6507-1",
+        "name": "Mini Dumper",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "26",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6527-1",
+        "name": "Tipper Truck",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "39",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990"]
+    },
+    {
+        "id": "6530-1",
+        "name": "Sport Coupe",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "35",
+        "nb_figures": "1",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6661-1",
+        "name": "Mobile Tv Studio",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "69",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6693-1",
+        "name": "Recycle Truck",
+        "family": "Town",
+        "year": "1987",
+        "nb_parts": "98",
+        "nb_figures": "2",
+        "catalogs": ["1987", "1988", "1989", "1990"]
+    },
+    {
+        "id": "6675-1",
+        "name": "Big Wheeler",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "77",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990"]
+    },
+    {
+        "id": "6672-1",
+        "name": "Safari Truck",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "53",
+        "nb_figures": "2",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6357-1",
+        "name": "Heli-Transporter",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "152",
+        "nb_figures": "2",
+        "catalogs": ["1988", "1989", "1990", "1991", "1992"]
+    },
+    {
+        "id": "6349-1",
+        "name": "Villa",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "193",
+        "nb_figures": "2",
+        "catalogs": ["1988", "1989", "1990"]
+    },
+    {
+        "id": "6388-1",
+        "name": "Holiday Home With Camper",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "337",
+        "nb_figures": "4",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6355-1",
+        "name": "Stable And Paddock",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "136",
+        "nb_figures": "1",
+        "catalogs": ["1989", "1990", "1991"]
+    },
+    {
+        "id": "6590-1",
+        "name": "Vacation Camper",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "100",
+        "nb_figures": "2",
+        "catalogs": ["1988", "1989", "1990", "1991"]
+    },
+    {
+        "id": "6592-1",
+        "name": "Weekend Cottage",
+        "family": "Town",
+        "year": "1990",
+        "nb_parts": "95",
+        "nb_figures": "2",
+        "catalogs": ["1990", "1991", "1992"]
+    },
+    {
+        "id": "6380-1",
+        "name": "Hospital",
+        "family": "Town",
+        "year": "1987",
+        "nb_parts": "274",
+        "nb_figures": "5",
+        "catalogs": ["1987", "1988", "1989", "1990", "1991"]
+    },
+    {
+        "id": "6356-1",
+        "name": "Ambulance Plane",
+        "family": "Town",
+        "year": "1988",
+        "nb_parts": "147",
+        "nb_figures": "3",
+        "catalogs": ["1988", "1989", "1990", "1991"]
+    },
+    {
+        "id": "6482-1",
+        "name": "Rescue Helicopter",
+        "family": "Town",
+        "year": "1989",
+        "nb_parts": "180",
+        "nb_figures": "3",
+        "catalogs": ["1989", "1990", "1991", "1992"]
+    },
+}
