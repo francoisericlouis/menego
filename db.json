@@ -150,15 +150,6 @@
 			"catalogs": ["1990", "1991", "1992"]
 		},
 		{
-			"id": "6375-1",
-			"name": "Cargo Plane",
-			"family": "Town",
-			"year": "1990",
-			"nb_parts": "185",
-			"nb_figures": "2",
-			"catalogs": ["1990", "1991", "1992", "1993"]
-		},
-		{
 			"id": "6396-1",
 			"name": "International Jetport",
 			"family": "Town",
@@ -256,34 +247,7 @@
 			"nb_parts": "147",
 			"nb_figures": "3",
 			"catalogs": ["1990", "1991", "1992", "1993"]
-		},
-		{
-			"id": "6527-1",
-			"name": "Tipper Truck",
-			"family": "Town",
-			"year": "1989",
-			"nb_parts": "39",
-			"nb_figures": "1",
-			"catalogs": ["1989", "1990"]
-		},
-		{
-			"id": "6661-1",
-			"name": "Mobile Tv Studio",
-			"family": "Town",
-			"year": "1989",
-			"nb_parts": "69",
-			"nb_figures": "1",
-			"catalogs": ["1989", "1990", "1991"]
-		},
-		{
-			"id": "6693-1",
-			"name": "Recycle Truck",
-			"family": "Town",
-			"year": "1987",
-			"nb_parts": "98",
-			"nb_figures": "2",
-			"catalogs": ["1987", "1988", "1989", "1990"]
-		},
+		},	
 		{
 			"id": "6357-1",
 			"name": "Heli-Transporter",
@@ -312,15 +276,6 @@
 			"catalogs": ["1989", "1990", "1991"]
 		},
 		{
-			"id": "6355-1",
-			"name": "Stable And Paddock",
-			"family": "Town",
-			"year": "1989",
-			"nb_parts": "136",
-			"nb_figures": "1",
-			"catalogs": ["1989", "1990", "1991"]
-		},
-		{
 			"id": "6380-1",
 			"name": "Hospital",
 			"family": "Town",
@@ -328,24 +283,6 @@
 			"nb_parts": "274",
 			"nb_figures": "5",
 			"catalogs": ["1987", "1988", "1989", "1990", "1991"]
-		},
-		{
-			"id": "6356-1",
-			"name": "Ambulance Plane",
-			"family": "Town",
-			"year": "1988",
-			"nb_parts": "147",
-			"nb_figures": "3",
-			"catalogs": ["1988", "1989", "1990", "1991"]
-		},
-		{
-			"id": "6482-1",
-			"name": "Rescue Helicopter",
-			"family": "Town",
-			"year": "1989",
-			"nb_parts": "180",
-			"nb_figures": "3",
-			"catalogs": ["1989", "1990", "1991", "1992"]
 		}
     ]
 }
